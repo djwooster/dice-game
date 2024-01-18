@@ -12,6 +12,7 @@ const rollBtn = document.querySelector('.btn--roll');
 const newBtn = document.querySelector('.btn--new');
 const holdBtn = document.querySelector('.btn--hold');
 
+// starting states
 let bigScores = [0, 0];
 let currentScore = 0;
 let activePlayer = 0;
